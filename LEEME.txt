@@ -1,0 +1,40 @@
+═══════════════════════════════════════════════════════════
+  ZEROTASKIA - WEB COMPLETA CON FORMSPREE
+═══════════════════════════════════════════════════════════
+
+✅ FORMULARIO FUNCIONANDO
+Los mensajes llegarán a tu email automáticamente.
+
+📁 ARCHIVOS INCLUIDOS:
+  - index.html (página principal)
+  - static/ (CSS y JavaScript)
+  - asset-manifest.json (configuración)
+
+🚀 CÓMO SUBIR A INTERNET:
+
+1. NETLIFY (Más fácil):
+   - Ve a netlify.com
+   - Arrastra esta carpeta completa
+   - ¡Listo! Tu web estará online
+
+2. VERCEL:
+   - Ve a vercel.com
+   - Sube esta carpeta
+   - Deploy automático
+
+3. Cualquier hosting:
+   - Sube todos estos archivos por FTP
+   - Apunta tu dominio a la carpeta
+
+📧 CONTACTO CONFIGURADO:
+  Email: diego@zerotaskia.com
+  Ubicación: Zaragoza, España
+  
+🔗 REDES SOCIALES FUNCIONANDO:
+  ✓ Email → diego@zerotaskia.com
+  ✓ LinkedIn → Luis Pascual
+  ✓ Instagram → @zerotaskia
+
+═══════════════════════════════════════════════════════════
+¡Todo listo para recibir contactos!
+═══════════════════════════════════════════════════════════
